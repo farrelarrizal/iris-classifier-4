@@ -5,7 +5,7 @@ import requests
 # Header
 st.image('assets/header-iris.png')
 st.title('Iris Classifier App')
-st.markdown('Created By: Farrel Arrizal | Batch Period: JAN 24')
+st.markdown('Created By: Farrel Arrizal | Batch Period: January 2024')
 st.divider()
 
 # content
